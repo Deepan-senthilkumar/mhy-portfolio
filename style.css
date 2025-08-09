@@ -33,6 +33,7 @@ nav a:hover {
 nav h1{
   color: #ffff;
   text-align: top-right;
+  align-item: right;
 }
 
 /* Profile Section */
@@ -167,6 +168,7 @@ nav h1{
 .recommendations button:hover {
   background-color: #004d40;
 }
+
 
 
 
