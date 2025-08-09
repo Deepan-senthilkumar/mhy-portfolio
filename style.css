@@ -30,6 +30,10 @@ nav a:hover {
   text-decoration: underline;
 }
 
+nav h1{
+  color: #ffff;
+}
+
 /* Profile Section */
 .profile-name {
   font-size: 28px;
@@ -162,3 +166,4 @@ nav a:hover {
 .recommendations button:hover {
   background-color: #004d40;
 }
+
